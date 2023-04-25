@@ -14,6 +14,7 @@
 		3DB583B429F7DDE000C4D026 /* back_1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DB583B329F7DDE000C4D026 /* back_1Tests.swift */; };
 		3DB583BE29F7DDE000C4D026 /* back_1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DB583BD29F7DDE000C4D026 /* back_1UITests.swift */; };
 		3DB583C029F7DDE000C4D026 /* back_1UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DB583BF29F7DDE000C4D026 /* back_1UITestsLaunchTests.swift */; };
+		3DB583CD29F7DFEB00C4D026 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DB583CC29F7DFEB00C4D026 /* File.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		3DB583B929F7DDE000C4D026 /* back_1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = back_1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3DB583BD29F7DDE000C4D026 /* back_1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = back_1UITests.swift; sourceTree = "<group>"; };
 		3DB583BF29F7DDE000C4D026 /* back_1UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = back_1UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3DB583CC29F7DFEB00C4D026 /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 			children = (
 				3DB583A129F7DDDF00C4D026 /* back_1App.swift */,
 				3DB583A329F7DDDF00C4D026 /* ContentView.swift */,
+				3DB583CC29F7DFEB00C4D026 /* File.swift */,
 				3DB583A529F7DDE000C4D026 /* Assets.xcassets */,
 				3DB583A729F7DDE000C4D026 /* back_1.entitlements */,
 				3DB583A829F7DDE000C4D026 /* Preview Content */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3DB583A429F7DDDF00C4D026 /* ContentView.swift in Sources */,
+				3DB583CD29F7DFEB00C4D026 /* File.swift in Sources */,
 				3DB583A229F7DDDF00C4D026 /* back_1App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
